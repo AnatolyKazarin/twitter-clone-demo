@@ -11,7 +11,7 @@ struct NotificationsView: View {
     var body: some View {
         VStack {
             ScrollView {
-                ForEach(0..<9) { _ in
+                ForEach(0..<10) { _ in
                     NotificationCell()
                 }
             }
