@@ -22,6 +22,7 @@
 		D8F4F24F29F7376000512E81 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F24E29F7376000512E81 /* SearchBar.swift */; };
 		D8F4F25129F887D000512E81 /* SearchUserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25029F887D000512E81 /* SearchUserCell.swift */; };
 		D8F4F25329F889F400512E81 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25229F889F400512E81 /* Extensions.swift */; };
+		D8F4F25529F9D23B00512E81 /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25429F9D23B00512E81 /* NotificationCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		D8F4F24E29F7376000512E81 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		D8F4F25029F887D000512E81 /* SearchUserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchUserCell.swift; sourceTree = "<group>"; };
 		D8F4F25229F889F400512E81 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D8F4F25429F9D23B00512E81 /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +185,7 @@
 			isa = PBXGroup;
 			children = (
 				D81BB5BD29F49BA30001F1BF /* NotificationsView.swift */,
+				D8F4F25429F9D23B00512E81 /* NotificationCell.swift */,
 			);
 			path = Notifications;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				D81BB5BC29F49B930001F1BF /* SearchView.swift in Sources */,
 				D81BB5C929F585C30001F1BF /* TweetCellView.swift in Sources */,
 				D81BB5BE29F49BA30001F1BF /* NotificationsView.swift in Sources */,
+				D8F4F25529F9D23B00512E81 /* NotificationCell.swift in Sources */,
 				D81BB5C029F49BB00001F1BF /* MessagesView.swift in Sources */,
 				D81BB5C329F49C140001F1BF /* Feed.swift in Sources */,
 				D8F4F25329F889F400512E81 /* Extensions.swift in Sources */,
