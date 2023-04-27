@@ -23,6 +23,7 @@
 		D8F4F25129F887D000512E81 /* SearchUserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25029F887D000512E81 /* SearchUserCell.swift */; };
 		D8F4F25329F889F400512E81 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25229F889F400512E81 /* Extensions.swift */; };
 		D8F4F25529F9D23B00512E81 /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25429F9D23B00512E81 /* NotificationCell.swift */; };
+		D8F4F25729FB23AA00512E81 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F4F25629FB23AA00512E81 /* MessageCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		D8F4F25029F887D000512E81 /* SearchUserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchUserCell.swift; sourceTree = "<group>"; };
 		D8F4F25229F889F400512E81 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D8F4F25429F9D23B00512E81 /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
+		D8F4F25629FB23AA00512E81 /* MessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 			isa = PBXGroup;
 			children = (
 				D81BB5BF29F49BB00001F1BF /* MessagesView.swift */,
+				D8F4F25629FB23AA00512E81 /* MessageCell.swift */,
 			);
 			path = Messages;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				D81BB5C329F49C140001F1BF /* Feed.swift in Sources */,
 				D8F4F25329F889F400512E81 /* Extensions.swift in Sources */,
 				D8F4F25129F887D000512E81 /* SearchUserCell.swift in Sources */,
+				D8F4F25729FB23AA00512E81 /* MessageCell.swift in Sources */,
 				D81BB5BA29F4982C0001F1BF /* Home.swift in Sources */,
 				D8F4F24F29F7376000512E81 /* SearchBar.swift in Sources */,
 				D81BB59E29F496D70001F1BF /* Twitter_CloneApp.swift in Sources */,
