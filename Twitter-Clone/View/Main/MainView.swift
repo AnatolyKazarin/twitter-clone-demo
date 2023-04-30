@@ -9,9 +9,17 @@ import SwiftUI
 
 struct MainView: View {
     var body: some View {
-        VStack {
-            TopBar()
-            Home()
+        NavigationView {
+            VStack {
+                ZStack(alignment: Alignment(horizontal: .leading, vertical: .center),
+                       content: {
+                        VStack {
+                            TopBar()
+                            Home()
+                        }
+                    
+                })
+            }
         }
     }
 }
